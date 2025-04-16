@@ -5,3 +5,5 @@ Testing running gitleaks
 And another one
 
 On feature branch
+
+And another one
